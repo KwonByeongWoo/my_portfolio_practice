@@ -9,3 +9,6 @@
       <td>22</td>
     </tr>
 </table>
+<span style="color:red">빨간색 글씨</span>  
+<span style="color:blue">파란색 글씨</span>
+<span style="color:#F8766D">색상코드의 글씨</span>
