@@ -1,1 +1,1 @@
-https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:TeX_%EB%AC%B8%EB%B2%95
+![수국]https://i.namu.wiki/i/GdDVa6tal_9_pjAgq2jMYXsn6fEfqLbfdqZm3JRKkBdRiKPlIZ5wp8NdOD6HfD30_JfwcAU3Tk-jcHTXgy3y4Q.webp
