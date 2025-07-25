@@ -1,1 +1,4 @@
-|  이름  | 국어성적 | 영어성적 | 수학성적 |
+public class Calculator {
+    public static void main(String[] args) {
+        System.out.println("Hello World!"); 
+    }
